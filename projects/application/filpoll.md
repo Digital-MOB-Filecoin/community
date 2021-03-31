@@ -42,5 +42,7 @@ Andrei Rykov / Denis Firu / Catalin Bara
 
 ## How the community can engage
 GitHub Discussion: https://github.com/filecoin-project/community/discussions/113
+
 Email:  catalin.bara@digitalmob.ro
+
 Slack: https://filecoin.io/slack
