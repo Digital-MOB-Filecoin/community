@@ -21,7 +21,8 @@ The project is currently in beta release.
 Filecoin community members: token holders, miners, devs etc.
 
 ## Github repo
-<!--Attach a link to your GitHub repo if it's OSS-->
+https://github.com/Digital-MOB-Filecoin/polling-api
+https://github.com/Digital-MOB-Filecoin/polling-webapp
 
 ## Website
 https://filpoll.io/
